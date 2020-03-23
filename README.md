@@ -3,3 +3,4 @@
 In this course, we have learned many data structures and algorithms in C++. Stacks, queues, heaps, and graphs are some of them. All projects are in C++ language, and related structures are used according to the project.
 
 Project 1 - Implementing a survey tool for a class. A vector is used in this project.
+Project 3 - Implementing a shortest and safe path-finder for Ali Baba.
